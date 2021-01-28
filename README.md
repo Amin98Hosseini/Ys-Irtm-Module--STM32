@@ -8,12 +8,20 @@ Library for IR module in Stm32
 Drive Ys-Irtm-Module With STM32 Microcontroller 
 
 Download The IR_NEC.h and IR_NEC.c 
+
 Make Your Project With Stm32cubemx
-Init huart in your microcontrller 
+
+Init huart in your microcontrller
+ 
 Add Library in Your Project --> IR_NEC.h & IR_NEC.c file
+
 Config huart in library --> Default in huart1 
+
 Compile your project 
+
 Sample code foe how to used function in uour program in main.c 
 
+
 Conntion Module to microcontroller :
+
 ![GY906](https://http2.mlstatic.com/D_NQ_NP_762332-MLA31035620849_062019-O.jpg)
