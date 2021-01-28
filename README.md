@@ -19,7 +19,7 @@ Config huart in library --> Default in huart1
 
 Compile your project 
 
-Sample code foe how to used function in uour program in main.c 
+Sample code for how to used function in uour program in main.c 
 
 
 Conntion Module to microcontroller :
